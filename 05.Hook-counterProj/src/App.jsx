@@ -15,6 +15,15 @@ function App() {
     //console.log("clicked" , counter);
    // counter = counter + 1;
    setCounter(counter + 1)
+
+   //this is asking for intereview
+   
+  //  setCounter(prevCounter => prevCounter + 1)
+  //  setCounter(prevCounter => prevCounter + 1)
+  //  setCounter(prevCounter => prevCounter + 1)
+  //  setCounter(prevCounter => prevCounter + 1)
+
+
    if(counter >= 20){
     setCounter(counter)
    }

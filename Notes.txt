@@ -1,0 +1,20 @@
+ 01 / day 01 :
+
+ CREATE  APP USING REACT
+ npx create-react-app appName
+ cd appName
+ npm run start
+ npm run build
+
+ 02 / day 02
+
+ CREATE APP USING VITE+REACT
+ npm create vite@latest
+ project name
+ react
+ javascript
+ cd project name 
+ npm i
+ npm run dev
+
+
